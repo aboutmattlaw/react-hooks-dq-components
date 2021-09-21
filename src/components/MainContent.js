@@ -11,7 +11,6 @@ function MainContent() {
     <GenrePicker/>
     
     <AlbumList/>
-    <AlbumCard/>
   
     
   
